@@ -4,7 +4,7 @@
 from setuptools import setup
 
 setup(
-    name="clang",
+    name="clang-5",
     version="5.0",
     description="libclang python bindings",
     long_description=open("README.md").read(),
