@@ -5,9 +5,9 @@ from setuptools import setup
 
 setup(
     name="clang-5",
-    version="5.0",
+    version="5.0.post2",
     description="libclang python bindings",
-    long_description=open("README.md").read(),
+    long_description=open("README.txt").read(),
     url="http://clang.llvm.org/",
     download_url="http://llvm.org/releases/download.html",
     license="License :: OSI Approved :: University of Illinois/NCSA Open Source License",
